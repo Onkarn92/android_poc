@@ -1,0 +1,8 @@
+/*
+ * Created by Onkar Nene on 3/4/21 4:23 PM
+ *
+ * Copyright (c) 2021 Onkar Nene. All rights reserved.
+ */
+
+include ':app'
+rootProject.name = "Android POC"
